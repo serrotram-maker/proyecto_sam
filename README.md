@@ -22,5 +22,5 @@ This project analyzes SAM files using a Python script (`^main.py`) with the [Ric
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/serrotram-maker/proyecto-sam.git
+git clone https://github.com/serrotram-maker/proyecto_sam.git
 cd proyecto-sam
