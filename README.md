@@ -7,6 +7,7 @@ This project analyzes SAM files using a Python script (`^main.py`) with the [Ric
 - `main.nf` → Nextflow pipeline to run `main.py` on a SAM file.  
 - `pyproject.toml` → Dependency management file (uv).  
 - `README.md` → Project documentation.
+- `gitignore`→ Archivos excluidos del control de versiones
 
 # Requirements
 
