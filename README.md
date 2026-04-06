@@ -1,4 +1,4 @@
-# project-sam
+# proyecto_sam
 SAM Project
 This project analyzes SAM files using a Python script (`^main.py`) with the [Rich](https://github.com/Textualize/rich) library to produce formatted terminal output. The workflow is automated with [Nextflow](https://www.nextflow.io/) and dependencies are managed with [uv](https://uv.dev/).
 
